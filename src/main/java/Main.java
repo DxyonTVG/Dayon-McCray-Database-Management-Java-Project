@@ -39,7 +39,7 @@ public class Main {
         // Create a Customer object
         Customer customer = new Customer(id, firstName, lastName, phoneNumber, email);
 
-        // Pass the customer object to the UserMenu
+        // Pass the object to the UserMenu
         System.out.println("Customer created: " + customer);
 
 
